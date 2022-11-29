@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// reference: https://www.youtube.com/watch?v=3mZiCh_IzKY
+
 #define ops 5
 
 /* IMPLEMENT ME: Declare your functions here */
